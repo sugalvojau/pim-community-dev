@@ -77,7 +77,8 @@
         "symfony/polyfill-apcu": "1.4.0",
         "twig/extensions": "1.2.0",
         "box/spout": "2.7.2",
-        "lrucache/lrucache": "^0.3.0"
+        "lrucache/lrucache": "^0.3.0",
+        "cash/lrucache": "^1.0"
     },
     "require-dev": {
         "akeneo/phpspec-skip-example-extension": "2.0.*",
