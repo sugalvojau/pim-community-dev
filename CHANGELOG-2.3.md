@@ -3,6 +3,7 @@
 ## Bug fixes
 
 - PIM-7898: Fix tab navigation when the column is collapsed
+- #9023: `Nesting level too deep – recursive dependency?` for some custom reference_data attributes
 
 # 2.3.21 (2018-12-07)
 
