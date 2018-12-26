@@ -3,7 +3,6 @@
 namespace Akeneo\Pim\Enrichment\Component\Product\Connector\Job\JobParameters\ConstraintCollectionProvider;
 
 use Akeneo\Pim\Enrichment\Component\Product\Validator\Constraints\Channel;
-use Akeneo\Pim\Enrichment\Component\Product\Validator\Constraints\FilterStructureAttribute;
 use Akeneo\Pim\Enrichment\Component\Product\Validator\Constraints\FilterStructureLocale;
 use Akeneo\Pim\Enrichment\Component\Product\Validator\Constraints\ProductFilterData;
 use Akeneo\Tool\Component\Batch\Job\JobInterface;
